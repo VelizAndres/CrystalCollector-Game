@@ -1,0 +1,72 @@
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csprojAssemblyReference.cache
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Configurar_Avatar.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Form1.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Properties.Resources.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero1.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.GenerateResource.cache
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.CoreCompileInputs.cache
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe.config
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Preguntas.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero2.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero3.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero4.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero5cs.resources
+C:\Users\Diego Veliz\Documents\Visual Studio 2017\Projects\ProyectoCrystal_AndresVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Resultado.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe.config
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csprojAssemblyReference.cache
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Configurar_Avatar.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Form1.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Preguntas.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Properties.Resources.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Resultado.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero1.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero2.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero3.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero4.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero5cs.resources
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.GenerateResource.cache
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.CoreCompileInputs.cache
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\Diego Veliz\Desktop\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe.config
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csprojAssemblyReference.cache
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Configurar_Avatar.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Form1.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Preguntas.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Properties.Resources.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Resultado.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero1.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero2.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero3.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero4.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero5cs.resources
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.GenerateResource.cache
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.CoreCompileInputs.cache
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\Diego Veliz\Desktop\Prueba\PruebaCristal\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe.config
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\bin\Debug\ProyectoCrystal_AndresVeliz.pdb
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Configurar_Avatar.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Form1.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Preguntas.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Properties.Resources.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Resultado.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero1.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero2.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero3.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero4.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.Tablero5cs.resources
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.exe
+C:\Users\andre\OneDrive\Escritorio\ProyectoCristal_AndrésVeliz\ProyectoCrystal_AndresVeliz\obj\Debug\ProyectoCrystal_AndresVeliz.pdb
